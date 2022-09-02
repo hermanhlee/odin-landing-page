@@ -216,3 +216,14 @@ body {
     padding: 10px 40px;
     margin-right: 20px;
 }
+
+/* CSS for footer */
+
+.footerbox {
+    background-color: #1f2937;
+}
+
+.footerbox p {
+    color: #e5e7eb;
+    text-align: center;
+}
